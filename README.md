@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getlulu-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getlulu.dev/
+Lulu Ads provides a commercial infrastructure for the agentic revolution, enabling developers to monetize their MCP servers with a 70% revenue share on cost‑per‑action (CPA) deals. The platform offers open‑source SDKs, fail‑open design, no prompt injection, and a growth kit for agents. It supports AI publishers, advertisers, and studios, delivering a seamless monetization experience across its suite of tools and services.
+
+**Areas:** Advertising · Monetization · AI · MCP · SaaS
+
+## getlulu-dev on APIs.io
+
+Everything profiled for getlulu-dev is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getlulu-dev/](https://apis.io/providers/getlulu-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [getlulu-dev C API](https://apis.io/apis/getlulu-dev/getlulu-dev-c-api/) — The C API from getlulu-dev — 1 operation(s) for c.
+- [getlulu-dev Campaigns API](https://apis.io/apis/getlulu-dev/getlulu-dev-campaigns-api/) — The Campaigns API from getlulu-dev — 1 operation(s) for campaigns.
+- [getlulu-dev Cron API](https://apis.io/apis/getlulu-dev/getlulu-dev-cron-api/) — The Cron API from getlulu-dev — 5 operation(s) for cron.
+- [getlulu-dev Health API](https://apis.io/apis/getlulu-dev/getlulu-dev-health-api/) — The Health API from getlulu-dev — 1 operation(s) for health.
+- [getlulu-dev I API](https://apis.io/apis/getlulu-dev/getlulu-dev-i-api/) — The I API from getlulu-dev — 1 operation(s) for i.
+- [getlulu-dev Install.md API](https://apis.io/apis/getlulu-dev/getlulu-dev-install-md-api/) — The Install.md API from getlulu-dev — 1 operation(s) for install.md.
+- [getlulu-dev Postback API](https://apis.io/apis/getlulu-dev/getlulu-dev-postback-api/) — The Postback API from getlulu-dev — 2 operation(s) for postback.
+- [getlulu-dev Publishers API](https://apis.io/apis/getlulu-dev/getlulu-dev-publishers-api/) — The Publishers API from getlulu-dev — 2 operation(s) for publishers.
+- [getlulu-dev Readme Sponsor API](https://apis.io/apis/getlulu-dev/getlulu-dev-readme-sponsor-api/) — The Readme Sponsor API from getlulu-dev — 1 operation(s) for readme sponsor.
+- [getlulu-dev Reports API](https://apis.io/apis/getlulu-dev/getlulu-dev-reports-api/) — The Reports API from getlulu-dev — 3 operation(s) for reports.
+- [getlulu-dev Rewards API](https://apis.io/apis/getlulu-dev/getlulu-dev-rewards-api/) — The Rewards API from getlulu-dev — 1 operation(s) for rewards.
+- [getlulu-dev Slot API](https://apis.io/apis/getlulu-dev/getlulu-dev-slot-api/) — The Slot API from getlulu-dev — 1 operation(s) for slot.
+- [getlulu-dev Telemetry API](https://apis.io/apis/getlulu-dev/getlulu-dev-telemetry-api/) — The Telemetry API from getlulu-dev — 1 operation(s) for telemetry.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Getlulu Dev Agentic Access](https://apis.io/agentic-access/getlulu-dev/getlulu-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CampaignIn](https://apis.io/schemas/getlulu-dev/getlulu-dev-campaign-in/)
+- [PayoutIn](https://apis.io/schemas/getlulu-dev/getlulu-dev-payout-in/)
+- [PostbackIn](https://apis.io/schemas/getlulu-dev/getlulu-dev-postback-in/)
+- [PublisherIn](https://apis.io/schemas/getlulu-dev/getlulu-dev-publisher-in/)
+- [RewardRedeemIn](https://apis.io/schemas/getlulu-dev/getlulu-dev-reward-redeem-in/)
+- [TelemetryInitIn](https://apis.io/schemas/getlulu-dev/getlulu-dev-telemetry-init-in/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getlulu Dev Context](https://apis.io/jsonld/getlulu-dev/getlulu-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [getlulu-dev API Rules](https://apis.io/rules/getlulu-dev/getlulu-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Getlulu Dev Authentication](https://apis.io/security/getlulu-dev/getlulu-dev-authentication/)
+- [Getlulu Dev Domain Security](https://apis.io/security/getlulu-dev/getlulu-dev-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Getlulu Dev Scopes](https://apis.io/scopes/getlulu-dev/getlulu-dev-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getlulu.dev/)
+- [Documentation](https://getlulu.dev/docs)
+- [Getting started](https://getlulu.dev/growth-kit)
+- [Pricing](https://app.getlulu.dev/pricing)
+- [Blog](https://getlulu.dev/blog)
+- [Security](https://getlulu.dev/mcps/category/security)
+- [Terms of service](https://getlulu.dev/terms)
+- [Privacy policy](https://getlulu.dev/privacy)
+- [GitHub](https://github.com/Lulu-The-Narwhal)
+
+## API Evangelist rating
+
+**Kin Score 53.7** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 49.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 44.7 |
+
+**Agent readiness 44.6** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getlulu-dev/](https://apis.io/providers/getlulu-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for getlulu-dev: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getlulu-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
